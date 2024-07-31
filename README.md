@@ -1,2 +1,2 @@
 # LeetCode
-My submissions in the LeetCode.
+It contains my submissions I have completed in the LeetCode.
